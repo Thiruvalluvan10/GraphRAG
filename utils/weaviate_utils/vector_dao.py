@@ -1,6 +1,6 @@
 import weaviate
 from weaviate.auth import Auth
-from weaviate.collections.classes.config import Configure
+
 
 from utils.constants import (
     WEAVIATE_HOST,
